@@ -1,0 +1,21 @@
+a:link {
+text-decoration: none;
+color:#000000;
+}
+a:visited {
+text-decoration: none;
+color:#000000;
+}
+a:hover {
+text-decoration: none;
+color:#EE0000;
+}
+p{
+text-align: center;font-size: 22px;
+}
+.so{
+height: 36px;
+font-size: 15pt;
+border:1px solid #000000;
+border-radius:1px;
+}
