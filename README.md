@@ -1,3 +1,5 @@
+
+
 # 个人浏览器导航起始网站
 
 项目地址：https://github.com/xcdmrCHP/indexWebSite
@@ -20,7 +22,7 @@
 
 - 主json，网站链接内容
 
-位于 `<body>`标签结束后
+位于 `<body>`标签开始后的 `<script>` 中
 
 ```js
 web={
